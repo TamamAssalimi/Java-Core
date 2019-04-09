@@ -1,0 +1,5 @@
+Agent-Class: co.id.kconk.instrumentation.agent.MyInstrumentationAgent
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
+Premain-Class: co.id.kconk.instrumentation.agent.MyInstrumentationAgent
+Main-Class: co.id.kconk.instrumentation.application.Launcher
